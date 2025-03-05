@@ -1,0 +1,109 @@
+{
+  "navigation": {
+    "home": "Home",
+    "tours": "Tours",
+    "about": "About Us",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "mainTitle": "Explore Wild Africa",
+    "subtitle": "Unforgettable Safari Adventures",
+    "ctaButton": "Book Now"
+  },
+  "about": {
+    "title": "We Would be honoured to welcome you to africa, our home",
+    "description": "Discover Namibia's vast deserts and Botswana's lush rivers with Professor Rion Haraeb, your seasoned safari guide. With over 20 years of experience since 2000, he leads thrilling wildlife tours in both English and German, specializing in tours for German and American travelers across Namibia, Botswana, and Victoria Falls.",
+    "stats": {
+      "experience": "Years Experience",
+      "languages": "Languages (EN/DE)",
+      "tours": "Unique Safari Tours",
+      "countries": "Countries Explored"
+    }
+  },
+  "activities": {
+    "title": "Activities",
+    "subtitle": "Explore Southern Africa's Wonders",
+    "description": "Join Professor Rion Haraeb for these unforgettable safari experiences, all available as part of our comprehensive tour packages or as individual activities.",
+    "items": {
+      "wildlifeViewing": {
+        "title": "Wildlife Viewing",
+        "price": "Included in safaris",
+        "days": "days",
+        "day": "day",
+        "description": "Observe Africa's magnificent wildlife in their natural habitat at Etosha National Park, including elephants, lions, and rare black rhinos."
+      },
+      "desertExploration": {
+        "title": "Desert Exploration",
+        "price": "Included in safaris",
+        "description": "Experience the breathtaking beauty of Sossusvlei's red sand dunes and the ancient Namib Desert, the world's oldest desert."
+      },
+      "culturalExperiences": {
+        "title": "Cultural Experiences",
+        "price": "Included in safaris",
+        "description": "Engage with local communities to learn about indigenous cultures, traditional practices, and the rich heritage of Southern Africa."
+      },
+      "victoriaFalls": {
+        "title": "Victoria Falls",
+        "price": "€450 add-on",
+        "description": "Marvel at the spectacular Victoria Falls, known locally as 'The Smoke That Thunders' - one of the Seven Natural Wonders of the World."
+      },
+      "photography": {
+        "title": "Safari Photography",
+        "price": "€80 per session",
+        "description": "Capture the perfect shots of wildlife and landscapes with specialized photography excursions led by experienced guides."
+      },
+      "okavangoDelta": {
+        "title": "Okavango Delta",
+        "price": "Included in selected tours",
+        "description": "Explore the unique Okavango Delta ecosystem by traditional mokoro canoe, encountering hippos, crocodiles, and abundant birdlife."
+      }
+    }
+  },
+  "featuredTour": {
+    "title": "Featured Experience",
+    "subtitle": "Discover Our Most Popular Safari",
+    "tourName": "Big Five Safari",
+    "days": "days",
+    "from": "From",
+    "viewDetails": "View Details",
+    "bookNow": "Book Now"
+  },
+  "upcomingTours": {
+    "title": "Lets Explore Together",
+    "subtitle": "Upcoming Tours",
+    "seeAll": "See All",
+    "perPerson": "per person"
+  },
+  "footer": {
+    "company": {
+      "description": "Led by Professor Rion Haraeb with over 20 years of experience, we specialize in premium safari experiences across Namibia, Botswana, and Victoria Falls. Enjoy bilingual English and German guided tours featuring private lodging, wildlife viewing, and unforgettable cultural experiences."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "links": {
+        "discover": "Discover",
+        "specialDeals": "Special Deals",
+        "services": "Services",
+        "community": "Community",
+        "aboutUs": "About Us"
+      }
+    },
+    "safariServices": {
+      "title": "Safari Services"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "newsletter": "Newsletter",
+      "emailPlaceholder": "Your email"
+    },
+    "copyright": "2025 - ALL RIGHTS RESERVED, RION WILDLIFE SAFARIS",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "sitemap": "Sitemap"
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "de": "German"
+  }
+} 

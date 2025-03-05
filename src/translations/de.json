@@ -1,0 +1,109 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "tours": "Safaris",
+    "about": "Über Uns",
+    "gallery": "Galerie",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "mainTitle": "Entdecken Sie das wilde Afrika",
+    "subtitle": "Unvergessliche Safari-Abenteuer",
+    "ctaButton": "Jetzt Buchen"
+  },
+  "about": {
+    "title": "Wir würden uns geehrt fühlen, Sie in Afrika, unserem Zuhause, willkommen zu heißen",
+    "description": "Entdecken Sie Namibias weite Wüsten und Botswanas üppige Flüsse mit Professor Rion Haraeb, Ihrem erfahrenen Safari-Führer. Mit über 20 Jahren Erfahrung seit 2000 leitet er spannende Wildtiertouren auf Englisch und Deutsch und spezialisiert sich auf Touren für deutsche und amerikanische Reisende durch Namibia, Botswana und die Viktoriafälle.",
+    "stats": {
+      "experience": "Jahre Erfahrung",
+      "languages": "Sprachen (EN/DE)",
+      "tours": "Einzigartige Safaris",
+      "countries": "Erkundete Länder"
+    }
+  },
+  "activities": {
+    "title": "Aktivitäten",
+    "subtitle": "Entdecken Sie die Wunder des südlichen Afrikas",
+    "description": "Erleben Sie mit Professor Rion Haraeb diese unvergesslichen Safari-Erlebnisse, die alle als Teil unserer umfassenden Tourpakete oder als einzelne Aktivitäten verfügbar sind.",
+    "items": {
+      "wildlifeViewing": {
+        "title": "Wildtierbeobachtung",
+        "price": "In Safaris enthalten",
+        "days": "Tage",
+        "day": "Tag",
+        "description": "Beobachten Sie Afrikas prächtige Wildtiere in ihrem natürlichen Lebensraum im Etosha-Nationalpark, darunter Elefanten, Löwen und seltene Spitzmaulnashörner."
+      },
+      "desertExploration": {
+        "title": "Wüstenerkundung",
+        "price": "In Safaris enthalten",
+        "description": "Erleben Sie die atemberaubende Schönheit der roten Sanddünen von Sossusvlei und der uralten Namib-Wüste, der ältesten Wüste der Welt."
+      },
+      "culturalExperiences": {
+        "title": "Kulturelle Erlebnisse",
+        "price": "In Safaris enthalten",
+        "description": "Tauschen Sie sich mit lokalen Gemeinschaften aus, um mehr über indigene Kulturen, traditionelle Praktiken und das reiche Erbe des südlichen Afrikas zu erfahren."
+      },
+      "victoriaFalls": {
+        "title": "Viktoriafälle",
+        "price": "€450 Zusatzpaket",
+        "description": "Bestaunen Sie die spektakulären Viktoriafälle, lokal als 'Der Rauch, der donnert' bekannt - eines der sieben Naturwunder der Welt."
+      },
+      "photography": {
+        "title": "Safari-Fotografie",
+        "price": "€80 pro Session",
+        "description": "Halten Sie die perfekten Aufnahmen von Wildtieren und Landschaften mit spezialisierten Fotoexkursionen unter der Leitung erfahrener Guides fest."
+      },
+      "okavangoDelta": {
+        "title": "Okavango-Delta",
+        "price": "In ausgewählten Touren enthalten",
+        "description": "Erkunden Sie das einzigartige Ökosystem des Okavango-Deltas mit traditionellen Mokoro-Kanus und begegnen Sie Flusspferden, Krokodilen und einer reichen Vogelwelt."
+      }
+    }
+  },
+  "featuredTour": {
+    "title": "Besonderes Erlebnis",
+    "subtitle": "Entdecken Sie unsere beliebteste Safari",
+    "tourName": "Big Five Safari",
+    "days": "Tage",
+    "from": "Ab",
+    "viewDetails": "Details Anzeigen",
+    "bookNow": "Jetzt Buchen"
+  },
+  "upcomingTours": {
+    "title": "Gemeinsam Entdecken",
+    "subtitle": "Kommende Touren",
+    "seeAll": "Alle Anzeigen",
+    "perPerson": "pro Person"
+  },
+  "footer": {
+    "company": {
+      "description": "Unter der Leitung von Professor Rion Haraeb mit über 20 Jahren Erfahrung spezialisieren wir uns auf erstklassige Safari-Erlebnisse in Namibia, Botswana und den Viktoriafällen. Genießen Sie zweisprachige englisch-deutsche Führungen mit privater Unterkunft, Wildtierbeobachtung und unvergesslichen kulturellen Erlebnissen."
+    },
+    "quickLinks": {
+      "title": "Schnellzugriff",
+      "links": {
+        "discover": "Entdecken",
+        "specialDeals": "Sonderangebote",
+        "services": "Dienstleistungen",
+        "community": "Gemeinschaft",
+        "aboutUs": "Über Uns"
+      }
+    },
+    "safariServices": {
+      "title": "Safari-Dienste"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "newsletter": "Newsletter",
+      "emailPlaceholder": "Ihre E-Mail"
+    },
+    "copyright": "2025 - ALLE RECHTE VORBEHALTEN, RION WILDLIFE SAFARIS",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen",
+    "sitemap": "Seitenübersicht"
+  },
+  "languageSwitcher": {
+    "en": "Englisch",
+    "de": "Deutsch"
+  }
+} 
